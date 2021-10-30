@@ -1,12 +1,7 @@
-👻 🦝 🦥
+#### Sample projects (Heaps.io)
 
-🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🫐 🍈 🍒
-
-📃 📄 📑 🧾
-
-📊 📈 📉 📝
-
-💛 💚 💙 💜 🖤 🤍
+- [white/yellow people](https://m-euchner-martinez.netlify.app/)
+- [3-body problem (2D)](https://marcel-euchner-martinez.netlify.app/)
 
 ---
 ```
@@ -54,7 +49,12 @@
 
 ---
 
-#### Sample projects (Heaps.io)
+👻 🦝 🦥
 
-- [white/yellow people](https://m-euchner-martinez.netlify.app/)
-- [3-body problem (2D)](https://marcel-euchner-martinez.netlify.app/)
+🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🫐 🍈 🍒
+
+📃 📄 📑 🧾
+
+📊 📈 📉 📝
+
+💛 💚 💙 💜 🖤 🤍
